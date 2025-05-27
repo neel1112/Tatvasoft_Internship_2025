@@ -1,0 +1,27 @@
+<div style="max-width: 400px; margin: 50px auto; font-family: Arial;">
+  <h2>User Details Form</h2>
+
+  <form (ngSubmit)="onSubmit()">
+    <label>Name:</label>
+    <input type="text" [(ngModel)]="name" name="name" required /><br><br>
+
+    <label>Email:</label>
+    <input type="email" [(ngModel)]="email" name="email" required /><br><br>
+
+    <label>Phone Number:</label>
+    <input type="tel" [(ngModel)]="number" name="number" required /><br><br>
+
+    <label>Address:</label>
+    <textarea [(ngModel)]="address" name="address" rows="3" required></textarea><br><br>
+
+    <button type="submit">Submit</button>
+  </form>
+
+  <div ngIf="submitted" style="margin-top: 30px;">
+    <h3>Submitted Data:</h3>
+    <p><strong>Name:</strong> {{ submittedData.name }}</p>
+    <p><strong>Email:</strong> {{ submittedData.email }}</p>
+    <p><strong>Phone:</strong> {{ submittedData.number }}</p>
+    <p><strong>Address:</strong> {{ submittedData.address }}</p>
+  </div>
+</div>
