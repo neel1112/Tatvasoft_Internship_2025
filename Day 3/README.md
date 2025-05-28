@@ -3,3 +3,7 @@ Day 3 : Introduction to .NET
 • Understand N-tier Repository pattern folder structure and Entity Framework (EF).
 • Hands-on: Familiarize with .NET project structure and EF.
 
+
+### CROME RUNNING PREVIEW 
+![Home](OUTPUT.jpg)
+
