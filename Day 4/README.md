@@ -5,4 +5,4 @@ Day 4 : .NET with Code First approach, LINQ, and Login Page<br>
     • Hands-on: Build a login API and understand how to write LINQ queries with Code First Approach.
 
  ### CROME RUNNING PREVIEW 
-![Home](OUTPUT.jpeg)
+![Home](image1.jpg)
