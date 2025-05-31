@@ -1,0 +1,56 @@
+D:\Summer Internship\Demo\BooksApi\BooksApi.Entities\bin\Debug\net8.0\BooksApi.Entities.deps.json
+D:\Summer Internship\Demo\BooksApi\BooksApi.Entities\bin\Debug\net8.0\BooksApi.Entities.runtimeconfig.json
+D:\Summer Internship\Demo\BooksApi\BooksApi.Entities\bin\Debug\net8.0\BooksApi.Entities.dll
+D:\Summer Internship\Demo\BooksApi\BooksApi.Entities\bin\Debug\net8.0\BooksApi.Entities.pdb
+D:\Summer Internship\Demo\BooksApi\BooksApi.Entities\obj\Debug\net8.0\BooksApi.Entities.csproj.AssemblyReference.cache
+D:\Summer Internship\Demo\BooksApi\BooksApi.Entities\obj\Debug\net8.0\BooksApi.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Summer Internship\Demo\BooksApi\BooksApi.Entities\obj\Debug\net8.0\BooksApi.Entities.AssemblyInfoInputs.cache
+D:\Summer Internship\Demo\BooksApi\BooksApi.Entities\obj\Debug\net8.0\BooksApi.Entities.AssemblyInfo.cs
+D:\Summer Internship\Demo\BooksApi\BooksApi.Entities\obj\Debug\net8.0\BooksApi.Entities.csproj.CoreCompileInputs.cache
+D:\Summer Internship\Demo\BooksApi\BooksApi.Entities\obj\Debug\net8.0\BooksApi.Entities.dll
+D:\Summer Internship\Demo\BooksApi\BooksApi.Entities\obj\Debug\net8.0\refint\BooksApi.Entities.dll
+D:\Summer Internship\Demo\BooksApi\BooksApi.Entities\obj\Debug\net8.0\BooksApi.Entities.pdb
+D:\Summer Internship\Demo\BooksApi\BooksApi.Entities\obj\Debug\net8.0\BooksApi.Entities.genruntimeconfig.cache
+D:\Summer Internship\Demo\BooksApi\BooksApi.Entities\obj\Debug\net8.0\ref\BooksApi.Entities.dll
+D:\Summer Internship\Day 5 LDRP\BooksApi\BooksApi.Entities\bin\Debug\net8.0\BooksApi.Entities.deps.json
+D:\Summer Internship\Day 5 LDRP\BooksApi\BooksApi.Entities\bin\Debug\net8.0\BooksApi.Entities.runtimeconfig.json
+D:\Summer Internship\Day 5 LDRP\BooksApi\BooksApi.Entities\bin\Debug\net8.0\BooksApi.Entities.dll
+D:\Summer Internship\Day 5 LDRP\BooksApi\BooksApi.Entities\bin\Debug\net8.0\BooksApi.Entities.pdb
+D:\Summer Internship\Day 5 LDRP\BooksApi\BooksApi.Entities\obj\Debug\net8.0\BooksApi.Entities.csproj.AssemblyReference.cache
+D:\Summer Internship\Day 5 LDRP\BooksApi\BooksApi.Entities\obj\Debug\net8.0\BooksApi.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Summer Internship\Day 5 LDRP\BooksApi\BooksApi.Entities\obj\Debug\net8.0\BooksApi.Entities.AssemblyInfoInputs.cache
+D:\Summer Internship\Day 5 LDRP\BooksApi\BooksApi.Entities\obj\Debug\net8.0\BooksApi.Entities.AssemblyInfo.cs
+D:\Summer Internship\Day 5 LDRP\BooksApi\BooksApi.Entities\obj\Debug\net8.0\BooksApi.Entities.csproj.CoreCompileInputs.cache
+D:\Summer Internship\Day 5 LDRP\BooksApi\BooksApi.Entities\obj\Debug\net8.0\BooksApi.Entities.dll
+D:\Summer Internship\Day 5 LDRP\BooksApi\BooksApi.Entities\obj\Debug\net8.0\refint\BooksApi.Entities.dll
+D:\Summer Internship\Day 5 LDRP\BooksApi\BooksApi.Entities\obj\Debug\net8.0\BooksApi.Entities.pdb
+D:\Summer Internship\Day 5 LDRP\BooksApi\BooksApi.Entities\obj\Debug\net8.0\BooksApi.Entities.genruntimeconfig.cache
+D:\Summer Internship\Day 5 LDRP\BooksApi\BooksApi.Entities\obj\Debug\net8.0\ref\BooksApi.Entities.dll
+C:\Users\ADMIN\Downloads\BooksApi\BooksApi.Entities\bin\Debug\net8.0\BooksApi.Entities.deps.json
+C:\Users\ADMIN\Downloads\BooksApi\BooksApi.Entities\bin\Debug\net8.0\BooksApi.Entities.runtimeconfig.json
+C:\Users\ADMIN\Downloads\BooksApi\BooksApi.Entities\bin\Debug\net8.0\BooksApi.Entities.dll
+C:\Users\ADMIN\Downloads\BooksApi\BooksApi.Entities\bin\Debug\net8.0\BooksApi.Entities.pdb
+C:\Users\ADMIN\Downloads\BooksApi\BooksApi.Entities\obj\Debug\net8.0\BooksApi.Entities.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\BooksApi\BooksApi.Entities\obj\Debug\net8.0\BooksApi.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Downloads\BooksApi\BooksApi.Entities\obj\Debug\net8.0\BooksApi.Entities.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Downloads\BooksApi\BooksApi.Entities\obj\Debug\net8.0\BooksApi.Entities.AssemblyInfo.cs
+C:\Users\ADMIN\Downloads\BooksApi\BooksApi.Entities\obj\Debug\net8.0\BooksApi.Entities.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\BooksApi\BooksApi.Entities\obj\Debug\net8.0\BooksApi.Entities.dll
+C:\Users\ADMIN\Downloads\BooksApi\BooksApi.Entities\obj\Debug\net8.0\refint\BooksApi.Entities.dll
+C:\Users\ADMIN\Downloads\BooksApi\BooksApi.Entities\obj\Debug\net8.0\BooksApi.Entities.pdb
+C:\Users\ADMIN\Downloads\BooksApi\BooksApi.Entities\obj\Debug\net8.0\BooksApi.Entities.genruntimeconfig.cache
+C:\Users\ADMIN\Downloads\BooksApi\BooksApi.Entities\obj\Debug\net8.0\ref\BooksApi.Entities.dll
+E:\Tatvasoft_Internship_2025-main\Day 5\BooksApi.Entities\bin\Debug\net8.0\BooksApi.Entities.deps.json
+E:\Tatvasoft_Internship_2025-main\Day 5\BooksApi.Entities\bin\Debug\net8.0\BooksApi.Entities.runtimeconfig.json
+E:\Tatvasoft_Internship_2025-main\Day 5\BooksApi.Entities\bin\Debug\net8.0\BooksApi.Entities.dll
+E:\Tatvasoft_Internship_2025-main\Day 5\BooksApi.Entities\bin\Debug\net8.0\BooksApi.Entities.pdb
+E:\Tatvasoft_Internship_2025-main\Day 5\BooksApi.Entities\obj\Debug\net8.0\BooksApi.Entities.csproj.AssemblyReference.cache
+E:\Tatvasoft_Internship_2025-main\Day 5\BooksApi.Entities\obj\Debug\net8.0\BooksApi.Entities.GeneratedMSBuildEditorConfig.editorconfig
+E:\Tatvasoft_Internship_2025-main\Day 5\BooksApi.Entities\obj\Debug\net8.0\BooksApi.Entities.AssemblyInfoInputs.cache
+E:\Tatvasoft_Internship_2025-main\Day 5\BooksApi.Entities\obj\Debug\net8.0\BooksApi.Entities.AssemblyInfo.cs
+E:\Tatvasoft_Internship_2025-main\Day 5\BooksApi.Entities\obj\Debug\net8.0\BooksApi.Entities.csproj.CoreCompileInputs.cache
+E:\Tatvasoft_Internship_2025-main\Day 5\BooksApi.Entities\obj\Debug\net8.0\BooksApi.Entities.dll
+E:\Tatvasoft_Internship_2025-main\Day 5\BooksApi.Entities\obj\Debug\net8.0\refint\BooksApi.Entities.dll
+E:\Tatvasoft_Internship_2025-main\Day 5\BooksApi.Entities\obj\Debug\net8.0\BooksApi.Entities.pdb
+E:\Tatvasoft_Internship_2025-main\Day 5\BooksApi.Entities\obj\Debug\net8.0\BooksApi.Entities.genruntimeconfig.cache
+E:\Tatvasoft_Internship_2025-main\Day 5\BooksApi.Entities\obj\Debug\net8.0\ref\BooksApi.Entities.dll
