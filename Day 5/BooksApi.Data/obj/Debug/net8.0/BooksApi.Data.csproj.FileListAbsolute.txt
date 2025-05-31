@@ -1,0 +1,44 @@
+D:\Summer Internship\Demo\BooksApi\BooksApi.Data\bin\Debug\net8.0\BooksApi.Data.deps.json
+D:\Summer Internship\Demo\BooksApi\BooksApi.Data\bin\Debug\net8.0\BooksApi.Data.dll
+D:\Summer Internship\Demo\BooksApi\BooksApi.Data\bin\Debug\net8.0\BooksApi.Data.pdb
+D:\Summer Internship\Demo\BooksApi\BooksApi.Data\obj\Debug\net8.0\BooksApi.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Summer Internship\Demo\BooksApi\BooksApi.Data\obj\Debug\net8.0\BooksApi.Data.AssemblyInfoInputs.cache
+D:\Summer Internship\Demo\BooksApi\BooksApi.Data\obj\Debug\net8.0\BooksApi.Data.AssemblyInfo.cs
+D:\Summer Internship\Demo\BooksApi\BooksApi.Data\obj\Debug\net8.0\BooksApi.Data.csproj.CoreCompileInputs.cache
+D:\Summer Internship\Demo\BooksApi\BooksApi.Data\obj\Debug\net8.0\BooksApi.Data.dll
+D:\Summer Internship\Demo\BooksApi\BooksApi.Data\obj\Debug\net8.0\refint\BooksApi.Data.dll
+D:\Summer Internship\Demo\BooksApi\BooksApi.Data\obj\Debug\net8.0\BooksApi.Data.pdb
+D:\Summer Internship\Demo\BooksApi\BooksApi.Data\obj\Debug\net8.0\ref\BooksApi.Data.dll
+D:\Summer Internship\Day 5 LDRP\BooksApi\BooksApi.Data\bin\Debug\net8.0\BooksApi.Data.deps.json
+D:\Summer Internship\Day 5 LDRP\BooksApi\BooksApi.Data\bin\Debug\net8.0\BooksApi.Data.dll
+D:\Summer Internship\Day 5 LDRP\BooksApi\BooksApi.Data\bin\Debug\net8.0\BooksApi.Data.pdb
+D:\Summer Internship\Day 5 LDRP\BooksApi\BooksApi.Data\obj\Debug\net8.0\BooksApi.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Summer Internship\Day 5 LDRP\BooksApi\BooksApi.Data\obj\Debug\net8.0\BooksApi.Data.AssemblyInfoInputs.cache
+D:\Summer Internship\Day 5 LDRP\BooksApi\BooksApi.Data\obj\Debug\net8.0\BooksApi.Data.AssemblyInfo.cs
+D:\Summer Internship\Day 5 LDRP\BooksApi\BooksApi.Data\obj\Debug\net8.0\BooksApi.Data.csproj.CoreCompileInputs.cache
+D:\Summer Internship\Day 5 LDRP\BooksApi\BooksApi.Data\obj\Debug\net8.0\BooksApi.Data.dll
+D:\Summer Internship\Day 5 LDRP\BooksApi\BooksApi.Data\obj\Debug\net8.0\refint\BooksApi.Data.dll
+D:\Summer Internship\Day 5 LDRP\BooksApi\BooksApi.Data\obj\Debug\net8.0\BooksApi.Data.pdb
+D:\Summer Internship\Day 5 LDRP\BooksApi\BooksApi.Data\obj\Debug\net8.0\ref\BooksApi.Data.dll
+C:\Users\ADMIN\Downloads\BooksApi\BooksApi.Data\bin\Debug\net8.0\BooksApi.Data.deps.json
+C:\Users\ADMIN\Downloads\BooksApi\BooksApi.Data\bin\Debug\net8.0\BooksApi.Data.dll
+C:\Users\ADMIN\Downloads\BooksApi\BooksApi.Data\bin\Debug\net8.0\BooksApi.Data.pdb
+C:\Users\ADMIN\Downloads\BooksApi\BooksApi.Data\obj\Debug\net8.0\BooksApi.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Downloads\BooksApi\BooksApi.Data\obj\Debug\net8.0\BooksApi.Data.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Downloads\BooksApi\BooksApi.Data\obj\Debug\net8.0\BooksApi.Data.AssemblyInfo.cs
+C:\Users\ADMIN\Downloads\BooksApi\BooksApi.Data\obj\Debug\net8.0\BooksApi.Data.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\BooksApi\BooksApi.Data\obj\Debug\net8.0\BooksApi.Data.dll
+C:\Users\ADMIN\Downloads\BooksApi\BooksApi.Data\obj\Debug\net8.0\refint\BooksApi.Data.dll
+C:\Users\ADMIN\Downloads\BooksApi\BooksApi.Data\obj\Debug\net8.0\BooksApi.Data.pdb
+C:\Users\ADMIN\Downloads\BooksApi\BooksApi.Data\obj\Debug\net8.0\ref\BooksApi.Data.dll
+E:\Tatvasoft_Internship_2025-main\Day 5\BooksApi.Data\bin\Debug\net8.0\BooksApi.Data.deps.json
+E:\Tatvasoft_Internship_2025-main\Day 5\BooksApi.Data\bin\Debug\net8.0\BooksApi.Data.dll
+E:\Tatvasoft_Internship_2025-main\Day 5\BooksApi.Data\bin\Debug\net8.0\BooksApi.Data.pdb
+E:\Tatvasoft_Internship_2025-main\Day 5\BooksApi.Data\obj\Debug\net8.0\BooksApi.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\Tatvasoft_Internship_2025-main\Day 5\BooksApi.Data\obj\Debug\net8.0\BooksApi.Data.AssemblyInfoInputs.cache
+E:\Tatvasoft_Internship_2025-main\Day 5\BooksApi.Data\obj\Debug\net8.0\BooksApi.Data.AssemblyInfo.cs
+E:\Tatvasoft_Internship_2025-main\Day 5\BooksApi.Data\obj\Debug\net8.0\BooksApi.Data.csproj.CoreCompileInputs.cache
+E:\Tatvasoft_Internship_2025-main\Day 5\BooksApi.Data\obj\Debug\net8.0\BooksApi.Data.dll
+E:\Tatvasoft_Internship_2025-main\Day 5\BooksApi.Data\obj\Debug\net8.0\refint\BooksApi.Data.dll
+E:\Tatvasoft_Internship_2025-main\Day 5\BooksApi.Data\obj\Debug\net8.0\BooksApi.Data.pdb
+E:\Tatvasoft_Internship_2025-main\Day 5\BooksApi.Data\obj\Debug\net8.0\ref\BooksApi.Data.dll
