@@ -3,7 +3,6 @@ Day 7 : User Retrieval
 • Hands-on: Data retrieval, data filtration, insertion, update, and deletion.
 
 
-![SWAGGER](https://github.com/neel1112/Tatvasoft_Internship_2025/blob/main/Day%206/login%20(1).jpeg)
+![operation](https://github.com/neel1112/Tatvasoft_Internship_2025/blob/main/Day%207/BookApi/operation.jpg)
 
-![OPERATION](https://github.com/neel1112/Tatvasoft_Internship_2025/blob/main/Day%206/register.jpeg)
 
