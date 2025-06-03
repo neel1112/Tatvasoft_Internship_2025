@@ -1,7 +1,6 @@
-Day 5 : Understand Authentication and Authorization
-• Explore authentication and authorization concepts and implementation in the project.
-• Hands-on: Understand and implement project authorization (Virtual Community Support).
-
+Day 6 : Role based Authorization (Admin and User roles)
+• Hands on authentication concepts, Role-Based Access Control, and Access Control Lists (ACLs).
+• Hands-on: Login Page. Learned and implemented role-based access control.
 
  ### CROME RUNNING PREVIEW
 
