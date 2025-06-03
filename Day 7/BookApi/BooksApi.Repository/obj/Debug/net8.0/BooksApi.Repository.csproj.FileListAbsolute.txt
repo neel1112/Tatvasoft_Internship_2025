@@ -1,0 +1,15 @@
+E:\Tatvasoft_Internship_2025-main\Day 7\BooksApi\BooksApi.Repository\bin\Debug\net8.0\BooksApi.Repository.deps.json
+E:\Tatvasoft_Internship_2025-main\Day 7\BooksApi\BooksApi.Repository\bin\Debug\net8.0\BooksApi.Repository.dll
+E:\Tatvasoft_Internship_2025-main\Day 7\BooksApi\BooksApi.Repository\bin\Debug\net8.0\BooksApi.Repository.pdb
+E:\Tatvasoft_Internship_2025-main\Day 7\BooksApi\BooksApi.Repository\bin\Debug\net8.0\BooksApi.Entities.dll
+E:\Tatvasoft_Internship_2025-main\Day 7\BooksApi\BooksApi.Repository\bin\Debug\net8.0\BooksApi.Entities.pdb
+E:\Tatvasoft_Internship_2025-main\Day 7\BooksApi\BooksApi.Repository\obj\Debug\net8.0\BooksApi.Repository.csproj.AssemblyReference.cache
+E:\Tatvasoft_Internship_2025-main\Day 7\BooksApi\BooksApi.Repository\obj\Debug\net8.0\BooksApi.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\Tatvasoft_Internship_2025-main\Day 7\BooksApi\BooksApi.Repository\obj\Debug\net8.0\BooksApi.Repository.AssemblyInfoInputs.cache
+E:\Tatvasoft_Internship_2025-main\Day 7\BooksApi\BooksApi.Repository\obj\Debug\net8.0\BooksApi.Repository.AssemblyInfo.cs
+E:\Tatvasoft_Internship_2025-main\Day 7\BooksApi\BooksApi.Repository\obj\Debug\net8.0\BooksApi.Repository.csproj.CoreCompileInputs.cache
+E:\Tatvasoft_Internship_2025-main\Day 7\BooksApi\BooksApi.Repository\obj\Debug\net8.0\BooksApi.B0B2348D.Up2Date
+E:\Tatvasoft_Internship_2025-main\Day 7\BooksApi\BooksApi.Repository\obj\Debug\net8.0\BooksApi.Repository.dll
+E:\Tatvasoft_Internship_2025-main\Day 7\BooksApi\BooksApi.Repository\obj\Debug\net8.0\refint\BooksApi.Repository.dll
+E:\Tatvasoft_Internship_2025-main\Day 7\BooksApi\BooksApi.Repository\obj\Debug\net8.0\BooksApi.Repository.pdb
+E:\Tatvasoft_Internship_2025-main\Day 7\BooksApi\BooksApi.Repository\obj\Debug\net8.0\ref\BooksApi.Repository.dll
