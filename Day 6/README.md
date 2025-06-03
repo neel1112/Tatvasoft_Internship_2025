@@ -5,6 +5,6 @@ Day 5 : Understand Authentication and Authorization
 
  ### CROME RUNNING PREVIEW
 
-![HOME](https://github.com/neel1112/Tatvasoft_Internship_2025/blob/main/Day%205/userdatabse.jpg)
+![LOGIN](https://github.com/neel1112/Tatvasoft_Internship_2025/blob/main/Day%206/login%20(1).jpeg)
 
-![HOME](https://github.com/neel1112/Tatvasoft_Internship_2025/blob/main/Day%205/userdatabase2.jpg)
+![REGISTER]()
